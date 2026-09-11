@@ -17,18 +17,18 @@ Repositorio correspondiente a la primera actividad de la materia Programacion We
 A continuacion se muestran las evidencias de las peticiones HTTP realizadas al servidor de Express para el manejo de clientes (GET y POST).
 
 - **Listado general de clientes:**
-  > ![Express API Clientes](express-api-clientes.png)
+  > ![Express API Clientes](capturas/express-api-clientes.png)
 
 - **Consulta de clientes por ID:**
-  > ![Express API Clientes ID 1](express-api-clientes-1.png)
-  > ![Express API Clientes ID 2](express-api-clientes-2.png)
+  > ![Express API Clientes ID 1](capturas/express-api-clientes-1.png)
+  > ![Express API Clientes ID 2](capturas/express-api-clientes-2.png)
 
 - **Registro de nuevo cliente (POST):**
-  > ![Express API Clientes Post](express-api-clientes-post.png)
+  > ![Express API Clientes Post](capturas/express-api-clientes-post.png)
 
 - **Consulta de clientes por ID después de POST:**
-  > ![Express API Clientes ID 2 Existe](express-api-clientes-2-existe.png)
-  > ![Express API Clientes ID 3](express-api-clientes-3.png)
+  > ![Express API Clientes ID 2 Existe](capturas/express-api-clientes-2-existe.png)
+  > ![Express API Clientes ID 3](capturas/express-api-clientes-3.png)
 
 
 
@@ -39,14 +39,14 @@ A continuacion se muestran las evidencias de las peticiones HTTP realizadas al s
 Evidencias de la implementacion alternativa utilizando el modulo nativo de Node.js.
 
 - **Listado general de clientes nativo:**
-  > ![Node API Clientes](node-api-clientes.png)
+  > ![Node API Clientes](capturas/node-api-clientes.png)
 
 - **Consulta de clientes por ID nativo:**
-  > ![Node API Clientes ID 1](node-api-clientes-1.png)
-  > ![Node API Clientes ID 2](node-api-clientes-2.png)
+  > ![Node API Clientes ID 1](capturas/node-api-clientes-1.png)
+  > ![Node API Clientes ID 2](capturas/node-api-clientes-2.png)
 
 - **Registro de nuevo cliente nativo (POST):**
-  > ![Node API Clientes Post](node-api-clientes-post.png)
+  > ![Node API Clientes Post](capturas/node-api-clientes-post.png)
 
 ---
 
@@ -55,12 +55,12 @@ Evidencias de la implementacion alternativa utilizando el modulo nativo de Node.
 Evidencias visuales de la aplicacion frontend en React consumiendo los endpoints de la API, mostrando el listado y el formulario de registro en tiempo real.
 
 - **Vista principal:**
-  > ![React Principal](react.png)
+  > ![React Principal](capturas/react.png)
 
 - **Vistas de interaccion y registros:**
-  > ![React Vista 1](react-1.png)
-  > ![React Vista 2](react-2.png)
-  > ![React Vista 4](react-4.png)
+  > ![React Vista 1](capturas/react-1.png)
+  > ![React Vista 2](capturas/react-2.png)
+  > ![React Vista 4](capturas/react-4.png)
 
 ---
 
