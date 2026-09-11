@@ -34,18 +34,18 @@ A continuacion se muestran las evidencias de las peticiones HTTP realizadas al s
 
 ---
 
-## 2. Pruebas de la API con Servidor Nativo (HTTP)
+## 2. Pruebas de la API con Node.js (HTTP)
 
 Evidencias de la implementacion alternativa utilizando el modulo nativo de Node.js.
 
-- **Listado general de clientes nativo:**
+- **Listado general de clientes Node.js:**
   > ![Node API Clientes](capturas/node-api-clientes.png)
 
-- **Consulta de clientes por ID nativo:**
+- **Consulta de clientes por ID Node.js:**
   > ![Node API Clientes ID 1](capturas/node-api-clientes-1.png)
   > ![Node API Clientes ID 2](capturas/node-api-clientes-2.png)
 
-- **Registro de nuevo cliente nativo (POST):**
+- **Registro de nuevo cliente Node.js (POST):**
   > ![Node API Clientes Post](capturas/node-api-clientes-post.png)
 
 ---
